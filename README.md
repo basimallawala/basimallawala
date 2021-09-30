@@ -1,4 +1,4 @@
-👋 Hi, I’m @basimallawala.  I'm a high school freshman learning C# :D
+👋 Hi, I’m @basimallawala.  I'm a high school sophmore learning C# :D
 
 <!---
 basimallawala/basimallawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
